@@ -1,4 +1,4 @@
-import { GestureResponderEvent, PanResponderGestureState, LayoutChangeEvent, ViewStyle } from 'react-native';
+import { GestureResponderEvent, PanResponderGestureState, LayoutChangeEvent, ViewStyle } from 'react-native-web';
 
 export interface ICenterOn {
   x: number;

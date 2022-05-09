@@ -1,5 +1,5 @@
 import * as React from 'react';
-import { Animated, LayoutChangeEvent, PanResponder, StyleSheet, View } from 'react-native';
+import { Animated, LayoutChangeEvent, PanResponder, StyleSheet, View } from 'react-native-web';
 import styles from './image-zoom.style';
 import { ICenterOn, ImageZoomProps, ImageZoomState } from './image-zoom.type';
 

@@ -1,4 +1,4 @@
-import { ViewStyle } from 'react-native';
+import { ViewStyle } from 'react-native-web';
 
 const container: ViewStyle = {
   justifyContent: 'center',
