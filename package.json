@@ -1,7 +1,7 @@
 {
-  "name": "react-native-web-image-pan-zoom",
+  "name": "@yunti/react-native-web-image-zoom",
   "version": "2.1.12",
-  "description": "react native web image pan zoom",
+  "description": "react native web image zoom",
   "main": "built/index.js",
   "types": "built/index.d.ts",
   "scripts": {
